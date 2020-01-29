@@ -1,2 +1,3 @@
 # gitorious
-List of Gitorious repositories
+
+List of Gitorious repositories.
